@@ -1,0 +1,35 @@
+body{
+    background: bisque;
+    text-align: center;
+    
+}
+.s1{
+    color: red;
+}
+header{
+    background-color:rgb(7, 112, 126);
+    color:white;
+    padding:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+#s1{
+    background-color: rgb(8, 134, 134);
+    text-align: center;
+    padding:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+marqee{
+    background-color: antiquewhite;
+}
+button{
+    background-color: antiquewhite;
+    color: rgb(5, 47, 133);
+    border: 10px rgb(5, 47, 133);
+    display: inline-block;
+}
+footer{
+border-left:5px solid black;
+
+}
